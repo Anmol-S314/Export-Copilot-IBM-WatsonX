@@ -1,0 +1,13 @@
+ibm-watsonx-ai
+langchain
+langchain-ibm
+gradio
+pydantic
+python-dotenv
+pypdf
+faiss-cpu
+sentence-transformers
+langchain-community
+pytesseract
+pdf2image
+duckduckgo-search
